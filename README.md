@@ -30,7 +30,7 @@ Python 3.0+ with requests library required. you cant run the script on python 2.
 ### Linux
 ```bash
 # Clone the Repository
-git clone https://github.com/ItsAML/MarzbanExpiredUserRemover.git
+git clone https://github.com/MrCjxer/MarzbanExpiredUserRemover.git
 
 # Change Directory
 cd MarzbanExpiredUserRemover
@@ -47,7 +47,7 @@ python3 main.py
 ### Windows
 ```bash
 # Clone the Repository
-git clone https://github.com/ItsAML/MarzbanExpiredUserRemover.git
+git clone https://github.com/MrCjxer/MarzbanExpiredUserRemover.git
 
 # Navigate to the Repository Directory
 cd MarzbanExpiredUserRemover
